@@ -12,5 +12,7 @@
 	"os:ios": {},
 	"os:mobileweb": {},
 	"os:windows": {},
-	"dependencies": {}
+	"dependencies": {
+		"com.imagine.circularslider": "1.0"
+	}
 }

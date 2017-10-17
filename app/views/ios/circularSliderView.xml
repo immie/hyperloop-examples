@@ -1,0 +1,10 @@
+<Alloy>
+	<Window id="win" title="Circular Slider using Hyperloop Widget">
+
+		<ScrollView>
+			<View class="vbox" id="circularSliderView_container"></View>
+			<Widget src="com.imagine.circularslider" id="circularSliderView" diameter="200" />
+		</ScrollView>
+
+	</Window>
+</Alloy>

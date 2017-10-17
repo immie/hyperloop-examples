@@ -1,0 +1,12 @@
+"#wrapperView": {
+	"backgroundColor": "FFFF00",
+	"borderColor": "#CFCFCF",
+	"borderRadius": 62,
+	"height": 160,
+	"width": 160
+}
+"#labelView": {
+	"textAlign": Ti.UI.TEXT_ALIGNMENT_CENTER,
+	"verticalAlign": Ti.UI.TEXT_VERTICAL_ALIGNMENT_CENTER,
+	"visible": true
+}

@@ -9,6 +9,7 @@
 			<ListView onItemclick="onListViewItemclick">
 				<ListSection>
 					<ListItem itemId="autolayout" platform="ios" title="Auto Layout"/>
+					<ListItem itemId="circularSliderView" title="Circular Slider View using Hyperloop Widget"/>
 					<ListItem itemId="touchid" platform="ios" title="Apple Touch ID"/>
 					<ListItem itemId="httprequest" title="HTTP Request"/>
 					<ListItem itemId="animateview" platform="android,ios,windows" title="View Animation"/>

@@ -8,4 +8,5 @@ target 'Hyperloop_Sample' do
 	pod 'JBChartView'
 	pod 'GLCalendarView', '~> 1.2'
 	pod 'Shimmer'
+	pod 'MTTCircularSlider'
 end
